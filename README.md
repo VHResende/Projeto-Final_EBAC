@@ -1,2 +1,2 @@
-# Projeto-Final_EBAC
-Projeto Final_EBAC_Ciência de Dados
+# Projeto 01: Classificação de Crédito
+Projeto desnvolvido no curso EBAC_Ciência de Dados
