@@ -3,3 +3,5 @@
 _______________
 # Projeto 01: Classificação de Crédito
 Projeto desenvolvido no curso EBAC_Ciência de Dados
+_______________
+📊 **by Victor Resende**
